@@ -4,7 +4,7 @@
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/0ed28b734a42d06a96cc57f5d478625c.gif?resize=400x0">
 
 
-- 🔭 I’m currently working on [AI Shopping assistant]([https://github.com/antilpiyush89/MindVault])
+- 🔭 I’m currently working on [MindVault, Vault ur Ideas](https://github.com/antilpiyush89/MindVault)
 
 - 📫 How to reach me **antilpiyush89@gmail.com**
 
