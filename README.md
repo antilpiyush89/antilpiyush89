@@ -7,9 +7,7 @@
 - 🔭 I’m currently working on [MindVault, Vault ur Ideas](https://github.com/antilpiyush89/MindVault)
 
 - 📫 How to reach me **antilpiyush89@gmail.com**
-
-- ⚡ Fun fact **Light mode better**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/antil_piyush101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antil_piyush101" height="30" width="40" /></a>
